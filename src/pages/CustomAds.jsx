@@ -33,10 +33,10 @@ import {
 } from "react-icons/md";
 
 const siteOptions = [
-  { label: "A1 Satta", value: "a1satta.vip" },
-  { label: "A3 Satta", value: "a3satta.vip" },
-  { label: "A7 Satta", value: "a7satta.vip" },
-  { label: "B7 Satta", value: "b7satta.vip" },
+  { label: "A1 Satta", value: "a1satta.pro" },
+  { label: "A3 Satta", value: "a3satta.pro" },
+  { label: "A7 Satta", value: "a7satta.pro" },
+  { label: "B7 Satta", value: "b7satta.pro" },
 ];
 
 export default function PremiumAdsEditor() {
@@ -844,3 +844,4 @@ export default function PremiumAdsEditor() {
     </div>
   );
 }
+
